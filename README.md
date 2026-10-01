@@ -209,12 +209,6 @@ npm run test
 - Vitest
 - React Testing Library
 
-
-### 8. AI Usage
-
-Your assessment explicitly allows AI but asks you to mention the tools used, so include this:
-
-```md
 ## AI Usage
 
 AI tools were used as a development support resource during the project.
